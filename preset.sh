@@ -11,11 +11,11 @@
 aur_helper="yay"
 ############ use : "Y" or "N"
 ###-Do you have any nvidia gpu in your system?
-nvidia="Y"
+nvidia="N"
 ###-Install GTK themes (required for Dark/Light function)?
 gtk_themes="Y"
 ###-Do you want to configure Bluetooth?
-bluetooth="Y"
+bluetooth="N"
 ###-Do you want to install Thunar file manager?
 thunar="Y"
 ###-Install & configure SDDM log-in Manager plus (OPTIONAL) SDDM Theme?
@@ -44,6 +44,6 @@ install_sddm_theme="Y"
 ### " Please note that adding yourself to the 'input' group might be necessary for waybar keyboard-state functionality."
 input_group_choid="Y"
 ### OPTIONAL - Do you want to add Pokemon color scripts? (y/n): 
-pokemon_choice="Y"
+pokemon_choice="N"
 ### Do you want to upgrade to the latest version? (y/n) - This is for the dotfiles
 upgrade_choice="Y"
